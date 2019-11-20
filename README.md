@@ -11,8 +11,8 @@ instances attached.
 
 ## Contributing
 
-* `make run` - runs the r53dm cli in a docker container
-* `make build` - builds your r53dm docker container
+* `make run` - runs aws_cost_waste in a docker container
+* `make build` - builds your aws_cost_waste docker container
 * `make vet` - go fmt and vet code
 * `make test` - run unit tests
 
